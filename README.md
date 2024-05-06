@@ -254,7 +254,8 @@ Execute the program using runserver command.
 
 ## OUTPUT
 
-![WhatsApp Image 2024-05-06 at 08 44 37_2cd554d9](https://github.com/Santhoshstudent/slot/assets/145446853/33e6d8bd-10df-412f-ba72-45d116b309e6)
+![image](https://github.com/Santhoshstudent/slot/assets/145446853/8233af8e-99d4-46d3-9962-7f9768798216)
+
 
 
 
