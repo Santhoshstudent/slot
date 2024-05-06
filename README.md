@@ -42,7 +42,7 @@ Execute the program using runserver command.
     
     <table align="center" width="540" cellspacing="2" cellpadding="4" border="2">
     
-        <caption><b>TIMETABLE- BEATRICE RITHISH P (212223230173)</b></caption>
+        <caption><b>TIMETABLE- BEATRICE santhosh kumar B (212223230193)</b></caption>
         
         <tr align="center">
         
